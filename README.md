@@ -95,7 +95,7 @@ Example:
     {
         "type": "link",
         "location": "http://google.com",
-        "altText": "Google"
+        "description": "Google"
     },
     {
         "type": "raw",
