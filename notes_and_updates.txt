@@ -1,0 +1,14 @@
+1) Removed role="document" from body as it violates W3C Validation
+2) Added JSHint config statement to site.js
+3) Cleaned up site.js with JSHint of minor syntax issues (e.g. utilizing != instead of !==)
+4) Implemented Node
+5) Implemented Express
+6) Implemented Jade
+7) Set up multi-step form process to create assignments, tasks and then items. 
+8) Incorporated muilt-part form ability to upload files for images and zip files.
+
+Need (no particular order):
+TDD setup (Mocha & Should)
+Interface overhaul incorporating more of the Bootstrap stuff
+Cleaning up of code utilizing JSHint and JSHint config set up
+Integrate Angular?
